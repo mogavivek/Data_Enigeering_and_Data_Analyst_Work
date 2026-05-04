@@ -1,0 +1,18 @@
+Host ec2-jupyter
+    Hostname 54.149.153.188 User ec2-user
+    IdentityFile C:/Users/Yhemmy/.ssh/capstone-yml.pem
+    Host ec2 _portfolio_gpu_yml
+
+Hostname 18.246.69.205
+    User ubuntu
+    IdentityFile C:/Users/Yhemmy/.ssh/capstone_berkeley_yml.pem
+    Host youtube-remote-connect
+
+Hostname 35.91.229.201
+    User ubuntu
+    IdentityFile C:\Users\Yhemmy\Downloads\testing_remote_connect.pem
+
+Host weatherApiAirflowYoutube
+    Hostname 35.90.203.48
+    User ubuntu
+    IdentityFile C:\Users\Yhemmy\Downloads\weather-api-airflow-yml-keypair.pem
