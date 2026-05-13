@@ -1,0 +1,21 @@
+/statista-coding-challenge
+│
+├── main.py
+├── pipeline/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── validate.py
+│   ├── enrich.py
+│   ├── load.py
+│   └── pipeline.py
+│
+├── api/
+│   └── app.py
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── logs/
+├── .env
+└── requirements.txt
